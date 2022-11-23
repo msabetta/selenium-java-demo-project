@@ -1,7 +1,7 @@
 # selenium-java-demo-project
-#### CLI ####
+#### CLI COMMANDS ####
 
-$ git clone https://github.com/msabetta/selenium-java-demo-project.git
-$ cd selenium-java-demo-project
-$ mvn clean install
-$ java -jar .\target\demo-0.0.1-SNAPSHOT.jar
+$ git clone https://github.com/msabetta/selenium-java-demo-project.git <br />
+$ cd selenium-java-demo-project <br />
+$ mvn clean install <br />
+$ java -jar .\target\demo-0.0.1-SNAPSHOT.jar <br />
